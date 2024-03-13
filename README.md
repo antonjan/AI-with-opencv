@@ -2,7 +2,7 @@
 This repository will have ally my code using AI vistion capabilities using opencv
 # seting up environment for opencv
 ## Run the following command
-    pip install -r requirements.txt
+    pip3 install -r requirements.txt
 ## install the following libraies  
     pip3 install opencv-python
     pip install opencv-python
