@@ -18,7 +18,7 @@ The dataset can be downloaded from the official COCO website (http://cocodataset
     python3 ./face_detection.py
 You should now have a file face_detected.png<br>
 open face_detected.png to see the face that was detected<br>
-![Alt text](![Alt text](face_detected.png?raw=true "face")<br>
+![Alt text](face_detected.png?raw=true "face")<br>
 
 
 
