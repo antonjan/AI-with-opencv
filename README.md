@@ -10,11 +10,15 @@ This repository will have ally my code using AI vistion capabilities using openc
 The COCO dataset contains over 330,000 images with more than 2.5 million object instances labeled across 80 categories.
 The dataset can be downloaded from the official COCO website (http://cocodataset.org/#download).
 
-# car detection from avi video
-python3 ./car_detector.py
+# Car detection from avi video
+    python3 ./car_detector.py
 ![Alt text](Car_detection.png?raw=true "car")<br>
 
-
+# Face detection form image
+    python3 ./face_detection.py
+You should now have a file face_detected.png
+open face_detected.png to see the face that was detected
+![Alt text](![Alt text](Car_detection.png?raw=true "car")<br>?raw=true "face")<br>
 
 
 
