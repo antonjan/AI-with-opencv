@@ -1,9 +1,12 @@
-# This program will take a pdf with images emebedid and then extract the images and then use ocr to extract the text from the images
+# This program will take a pdf with an images emebedid and then extract the images and then use OCR to extract the text from the images
 
 ## Usage
 you need to add two parameters the inputfile witch should be pdf with images embedid with in them and output file where the Text will be saved
 
     python3.8 ./img_pdf_langchange_to_text.py img_pdf.pdf output.txt
+
+### Image exsample
+![Screenshot of the image in the pdf.](https://github.com/antonjan/AI-with-opencv/blob/main/pdf_to_img_ocr_text/Figure_1.png)
 
 ## dependency
 pip3 install pypdfium2
