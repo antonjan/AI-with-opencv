@@ -20,6 +20,9 @@ You should now have a file face_detected.png<br>
 open face_detected.png to see the face that was detected<br>
 ![Alt text](face_detected.png?raw=true "face")<br>
 
+# Converting pdfs with images embedid in them to text by using OCR then the brogram will create the text outpu
+
+    here is the link https://github.com/antonjan/AI-with-opencv/tree/main/pdf_to_img_ocr_text
 
 
 
