@@ -1,0 +1,77 @@
+~~ Page Number 1 -—~
+
+This document provides a quick summary of some of Zoumana'’s article on Medium. It can be considered as the compilation of his 80+ articles about Data Science, Machine Learning and
+
+Machine Learning Operations.
+
+Whether you are just getting started or you're an experienced professional looking to upskill, these
+
+materials can be helpful.
+
+Data Science section covers basic to advanced concepts such as statistics, model evaluation metrics, SQL queries, NOSQL courses, data visualization using Tableau and #powerbi, and many more.
+
+Link: httos://Inkd.in/g8zcS_vE
+
+MLOps chapter explains how to build and deploy models using different strategies such as Docker containers, and GitHub actions on AWS EC2 instances, Azure. Also, it covers how to build REST APIs to serve your models.
+
+Link: httos://Inkd.in/qyiUsdgz
+
+Natural Language Processing Covers simple NLP concepts to more advanced ones such as Transformers and their applications in Finance, Science, etc.
+
+Link: httos://Inkd.in/gBdZbHty
+
+Computer Vision section covers SOTA models (e.g. YOLO) and different technics to mitigate
+
+overfitting when training computer vision models.
+
+Link: https://Inkd.in/gDY8ZqVs
+
+Python section showcases multiple libraries to facilitate one's daily life, especially when dealing with PDF, and Word files when scraping data from the web, and even benchmarking analysis to help choose the right data processing tool.
+
+Link: https://Inkd.in/QH HUMM9
+
+Pandas & Python Tricks Covers my daily tips and tricks on Linkedin. And, there are plenty of those, especially on my
+
+website https://Inkd.in/gPbichBS https://Inkd.in/gUs8inuZ
+
+Machine Learning part is about Fexplainable Al, clustering, classification tasks, etc.
+
+Link: https://Inkd.in/gJdSvQns~~ Page Number 1 -—~
+
+This document provides a quick summary of some of Zoumana'’s article on Medium. It can be considered as the compilation of his 80+ articles about Data Science, Machine Learning and
+
+Machine Learning Operations.
+
+Whether you are just getting started or you're an experienced professional looking to upskill, these
+
+materials can be helpful.
+
+Data Science section covers basic to advanced concepts such as statistics, model evaluation metrics, SQL queries, NOSQL courses, data visualization using Tableau and #powerbi, and many more.
+
+Link: httos://Inkd.in/g8zcS_vE
+
+MLOps chapter explains how to build and deploy models using different strategies such as Docker containers, and GitHub actions on AWS EC2 instances, Azure. Also, it covers how to build REST APIs to serve your models.
+
+Link: httos://Inkd.in/qyiUsdgz
+
+Natural Language Processing Covers simple NLP concepts to more advanced ones such as Transformers and their applications in Finance, Science, etc.
+
+Link: httos://Inkd.in/gBdZbHty
+
+Computer Vision section covers SOTA models (e.g. YOLO) and different technics to mitigate
+
+overfitting when training computer vision models.
+
+Link: https://Inkd.in/gDY8ZqVs
+
+Python section showcases multiple libraries to facilitate one's daily life, especially when dealing with PDF, and Word files when scraping data from the web, and even benchmarking analysis to help choose the right data processing tool.
+
+Link: https://Inkd.in/QH HUMM9
+
+Pandas & Python Tricks Covers my daily tips and tricks on Linkedin. And, there are plenty of those, especially on my
+
+website https://Inkd.in/gPbichBS https://Inkd.in/gUs8inuZ
+
+Machine Learning part is about Fexplainable Al, clustering, classification tasks, etc.
+
+Link: https://Inkd.in/gJdSvQns
