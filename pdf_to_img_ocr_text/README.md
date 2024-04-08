@@ -1,4 +1,5 @@
 # This program will take a pdf with an images embedded and then extract the images and then use OCR to extract the text from the images
+if you are looking at Llama2 Rag implimentation look at my implimentation here https://github.com/antonjan/local_ai_with_pdf
 
 ## Usage
 you need to add two parameters the inputfile witch should be pdf with images embedid with in them and output file where the Text will be saved
