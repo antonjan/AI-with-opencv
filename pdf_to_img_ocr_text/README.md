@@ -8,7 +8,7 @@ you need to add two parameters the inputfile witch should be pdf with images emb
 ### Image exsample
 ![Screenshot of the image in the pdf.](https://github.com/antonjan/AI-with-opencv/blob/main/pdf_to_img_ocr_text/Figure_1.png)
 
-### Text exreacted
+### Text extract
   
     ~~ Page Number 1 -—~
 
