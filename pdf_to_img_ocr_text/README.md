@@ -1,4 +1,4 @@
-# This program will take a pdf with an images emebedid and then extract the images and then use OCR to extract the text from the images
+# This program will take a pdf with an images embedded and then extract the images and then use OCR to extract the text from the images
 
 ## Usage
 you need to add two parameters the inputfile witch should be pdf with images embedid with in them and output file where the Text will be saved
