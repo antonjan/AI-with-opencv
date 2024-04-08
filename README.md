@@ -1,5 +1,5 @@
 # AI-with-opencv
-This repository will have ally my code using AI vistion capabilities using opencv
+This repository will have ally my code using AI vistion capabilities using opencv<br>
 If you are looking for my AI RAG implimentation using Llama2 and PDF ducment loading look at my project here https://github.com/antonjan/local_ai_with_pdf
 # seting up environment for opencv
 ## Run the following command
