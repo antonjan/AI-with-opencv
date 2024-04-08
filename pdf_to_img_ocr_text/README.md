@@ -87,6 +87,22 @@ you need to add two parameters the inputfile witch should be pdf with images emb
             Machine Learning part is about Fexplainable Al, clustering, classification tasks, etc.
             
             Link: https://Inkd.in/gJdSvQns
+
+## Deplyment
+You need python3 I was using 3.11
+install the below dependicy file
+using the command pip3 install [file]
+
+## dependincy for project
+    easyocr==1.7.1
+    langchain==0.1.14
+    langchain_community==0.0.31
+    matplotlib==3.8.2
+    Pillow==10.3.0
+    pip==23.3.2
+    pypdfium2==4.28.0
+    pytesseract==0.3.10
+    
     
 ## dependency
         pip3 install pypdfium2
